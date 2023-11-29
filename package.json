@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mathjs": "^12.1.0",
+    "yargs": "^17.7.2"
+  }
+}
