@@ -2,7 +2,7 @@
 
 This repository contains code related to Codédex workshops.
 
-| Date         | Workshop       | Hosts  | 
+| Date         | Workshop       | Instructor(s)  | 
 | ----------- | ----------- | ------------ |
 | Thu, 11/30/2023 @ 3pm ET | Build a Calculator App CLI with Node.js | Dharma, Sonny |
 | Fri, 10/26/2023 @ 2pm ET | Intro to Command Line | Dharma, Sonny |
